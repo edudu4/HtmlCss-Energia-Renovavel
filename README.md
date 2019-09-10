@@ -8,3 +8,7 @@ Website dissertativo desenvolvido em HTML/CSS que aborda o tema de Energia Renov
 # Site
 Clique <a href="https://edudu4.github.io/HtmlCss-Energia-Renovavel.io/index.html">aqui</a> para ser redirecionado ao site.
 
+
+---
+permalink: /index.html
+---
